@@ -1,0 +1,22 @@
+.about-us {
+  max-width: 600px;
+  text-align: center;
+  color: #ffffff;
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.55);
+}
+
+.company-name {
+  font-size: 3rem;
+  margin-bottom: 0.25rem;
+}
+
+.company-tagline {
+  font-size: 1.4rem;
+  font-weight: 400;
+  margin-bottom: 1.25rem;
+}
+
+.company-description {
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
